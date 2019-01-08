@@ -1,5 +1,5 @@
-Building Litecoin
+Building Smartcoin
 ================
 
 See doc/build-*.md for instructions on building the various
-elements of the Litecoin Core reference implementation of Litecoin.
+elements of the Smartcoin Core reference implementation of Smartcoin.
