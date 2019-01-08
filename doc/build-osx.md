@@ -49,7 +49,7 @@ Build Smartcoin Core
 
 1. Clone the litecoin source code and cd into `litecoin`
 
-        git clone https://github.com/litecoin-project/litecoin
+        git clone https://github.com/fgshop/litecoin
         cd litecoin
 
 2.  Build litecoin-core:
