@@ -5,7 +5,7 @@ Setup
 ---------------------
 Smartcoin Core is the original Smartcoin client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Smartcoin transactions (which is currently more than 7 GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Smartcoin Core, visit [litecoin.org](https://litecoin.org).
+To download Smartcoin Core, visit [smartcoin.org](https://smartcoin.org).
 
 Running
 ---------------------
@@ -15,12 +15,12 @@ The following are some helpful notes on how to run Smartcoin on your native plat
 
 Unpack the files into a directory and run:
 
-- `bin/litecoin-qt` (GUI) or
-- `bin/litecoind` (headless)
+- `bin/smartcoin-qt` (GUI) or
+- `bin/smartcoind` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run litecoin-qt.exe.
+Unpack the files into a directory, and then run smartcoin-qt.exe.
 
 ### OS X
 
@@ -28,10 +28,10 @@ Drag Smartcoin-Core to your applications folder, and then run Smartcoin-Core.
 
 ### Need Help?
 
-* See the documentation at the [Smartcoin Wiki](https://litecoin.info/)
+* See the documentation at the [Smartcoin Wiki](https://smartcoin.info/)
 for help and more information.
-* Ask for help on [#litecoin](http://webchat.freenode.net?channels=litecoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=litecoin).
-* Ask for help on the [SmartcoinTalk](https://litecointalk.io/) forums.
+* Ask for help on [#smartcoin](http://webchat.freenode.net?channels=smartcoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=smartcoin).
+* Ask for help on the [SmartcoinTalk](https://smartcointalk.io/) forums.
 
 Building
 ---------------------
@@ -61,8 +61,8 @@ The Smartcoin repo's [root README](/README.md) contains relevant information on 
 - [Benchmarking](benchmarking.md)
 
 ### Resources
-* Discuss on the [SmartcoinTalk](https://litecointalk.io/) forums.
-* Discuss general Smartcoin development on #litecoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=litecoin-dev).
+* Discuss on the [SmartcoinTalk](https://smartcointalk.io/) forums.
+* Discuss general Smartcoin development on #smartcoin-dev on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=smartcoin-dev).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

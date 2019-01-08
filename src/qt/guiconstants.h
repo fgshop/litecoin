@@ -47,7 +47,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "Smartcoin"
-#define QAPP_ORG_DOMAIN "litecoin.org"
+#define QAPP_ORG_DOMAIN "smartcoin.org"
 #define QAPP_APP_NAME_DEFAULT "Smartcoin-Qt"
 #define QAPP_APP_NAME_TESTNET "Smartcoin-Qt-testnet"
 
